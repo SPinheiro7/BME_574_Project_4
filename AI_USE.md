@@ -1,0 +1,1 @@
+We used OpenAI’s ChatGPT, GPT-6 Astra model, to explain the code for the third TODO section of the Jupyter notebook, assist with general debugging, grammar checks, and provide guidance on Question 6 of the report regarding potential improvements using the same dataset.
